@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay.md",
+                "file": "Characters info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay"
+              "title": "Characters info"
             }
           }
         ],
@@ -232,10 +232,10 @@
   },
   "active": "8b90417ade8f269a",
   "lastOpenFiles": [
-    "Characters info.md",
     "Ideas.md",
-    "Gameplay.md",
     "Welcome new recruits!.md",
+    "Gameplay.md",
+    "Characters info.md",
     "Untitled 1.md",
     "Bienvenue.md"
   ]
